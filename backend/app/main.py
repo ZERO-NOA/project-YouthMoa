@@ -11,7 +11,7 @@ from app.api import benefits
 from app.core.errors import WelfareAPIError, validation_message
 from app.core.welfare_config import get_settings
 from app.db.database import Base, engine
-from app.models import User, Benefit, Favorite
+from app.models import User, Benefit, Favorite, ViewHistory
 
 
 settings = get_settings()

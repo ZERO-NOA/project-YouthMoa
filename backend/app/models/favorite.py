@@ -1,10 +1,11 @@
+
 from datetime import datetime
 
 from sqlalchemy import (
     DateTime,
     ForeignKey,
-    UniqueConstraint,
     Index,
+    UniqueConstraint,
     func,
 )
 from sqlalchemy.orm import Mapped, mapped_column, relationship
@@ -29,11 +30,13 @@ class Favorite(Base):
         index=True,
     )
 
+    # 즐겨찾기를 등록한 회원
     user_id: Mapped[int] = mapped_column(
         ForeignKey("users.id", ondelete="CASCADE"),
         nullable=False,
     )
 
+    # 즐겨찾기한 지원 제도
     benefit_id: Mapped[int] = mapped_column(
         ForeignKey("benefits.id", ondelete="CASCADE"),
         nullable=False,
