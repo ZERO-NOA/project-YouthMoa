@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wantedList>
+  <totalCount>2</totalCount>
+  <pageNo>1</pageNo>
+  <numOfRows>10</numOfRows>
+  <resultCode>0</resultCode>
+  <resultMessage>SUCCESS</resultMessage>
+  <servList>
+    <servId>WLF00001</servId>
+    <servNm>청년 월세 지원</servNm>
+    <servDgst>무주택 청년에게 월세를 지원합니다.</servDgst>
+    <ctpvNm>서울특별시</ctpvNm>
+    <sggNm>강남구</sggNm>
+    <bizChrDeptNm>주택정책과</bizChrDeptNm>
+    <lifeNmArray>청년</lifeNmArray>
+    <intrsThemaNmArray>주거</intrsThemaNmArray>
+    <sprtCycNm>월</sprtCycNm>
+    <srvPvsnNm>현금지급</srvPvsnNm>
+    <aplyMtdNm>방문</aplyMtdNm>
+    <servDtlLink>https://www.bokjiro.go.kr/ssis-tbu/WLF00001</servDtlLink>
+    <inqNum>1234</inqNum>
+    <lastModYmd>20260714</lastModYmd>
+  </servList>
+  <servList>
+    <servId>WLF00002</servId>
+    <servNm>청소년 교육비 지원</servNm>
+    <servDgst>교육비를 지원합니다.</servDgst>
+    <ctpvNm>부산광역시</ctpvNm>
+    <sggNm></sggNm>
+    <bizChrDeptNm>교육지원과</bizChrDeptNm>
+    <lifeNmArray>청소년,청년,임신 · 출산</lifeNmArray>
+    <intrsThemaNmArray>교육,생활지원</intrsThemaNmArray>
+    <sprtCycNm>1회성</sprtCycNm>
+    <srvPvsnNm>현물</srvPvsnNm>
+    <aplyMtdNm></aplyMtdNm>
+    <servDtlLink></servDtlLink>
+    <inqNum>abc</inqNum>
+    <lastModYmd>20260601</lastModYmd>
+  </servList>
+</wantedList>

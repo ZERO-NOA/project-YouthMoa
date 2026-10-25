@@ -28,7 +28,7 @@
 | 영역 | 기술 |
 |---|---|
 | Frontend | React, Vite |
-| Styling | CSS 또는 Tailwind CSS |
+| Styling | Tailwind CSS |
 | Backend | Python, FastAPI |
 | Database | SQLite, SQLAlchemy |
 | External API | 공공데이터포털 OpenAPI |

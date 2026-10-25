@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wantedDtl>
+  <resultCode>0</resultCode>
+  <resultMessage>SUCCESS</resultMessage>
+  <servId>WLF00001</servId>
+  <servNm>청년 월세 지원</servNm>
+  <servDgst>무주택 청년 월세 지원 사업</servDgst>
+  <ctpvNm>서울특별시</ctpvNm>
+  <sggNm>강남구</sggNm>
+  <bizChrDeptNm>주택정책과</bizChrDeptNm>
+  <lifeNmArray>청년</lifeNmArray>
+  <intrsThemaNmArray>주거</intrsThemaNmArray>
+  <sprtCycNm>월</sprtCycNm>
+  <srvPvsnNm>현금지급</srvPvsnNm>
+  <sprtTrgtCn>만 19~34세 무주택 청년</sprtTrgtCn>
+  <slctCritCn>중위소득 150% 이하</slctCritCn>
+  <alwServCn>월 최대 20만원, 최대 12개월</alwServCn>
+  <aplyMtdNm>방문</aplyMtdNm>
+  <aplyMtdCn>주민센터 방문 신청</aplyMtdCn>
+  <enfcBgngYmd>20250101</enfcBgngYmd>
+  <enfcEndYmd>20261231</enfcEndYmd>
+  <inqNum>77</inqNum>
+  <lastModYmd>20260714</lastModYmd>
+  <inqplCtadrList>
+    <wlfareInfoDtlCd>010</wlfareInfoDtlCd>
+    <wlfareInfoReldCn>031-790-5511</wlfareInfoReldCn>
+    <wlfareInfoReldNm> 주택정책과</wlfareInfoReldNm>
+  </inqplCtadrList>
+  <baslawList>
+    <wlfareInfoDtlCd>030</wlfareInfoDtlCd>
+    <wlfareInfoReldNm>청년기본조례</wlfareInfoReldNm>
+  </baslawList>
+  <basfrmList>
+    <wlfareInfoDtlCd>040</wlfareInfoDtlCd>
+    <wlfareInfoReldCn>https://www.bokjiro.go.kr/download?id=1</wlfareInfoReldCn>
+    <wlfareInfoReldNm>신청서.hwp</wlfareInfoReldNm>
+  </basfrmList>
+  <basfrmList>
+    <wlfareInfoDtlCd>040</wlfareInfoDtlCd>
+    <wlfareInfoReldCn>https://www.bokjiro.go.kr/download?id=2</wlfareInfoReldCn>
+    <wlfareInfoReldNm>동의서.hwp</wlfareInfoReldNm>
+  </basfrmList>
+</wantedDtl>

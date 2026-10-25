@@ -1,0 +1,9 @@
+.smoke_output/
+__pycache__/
+*.pyc
+.env
+.venv/
+smoke_result.txt
+data/details/
+data/*.partial.json
+data/*.tmp
