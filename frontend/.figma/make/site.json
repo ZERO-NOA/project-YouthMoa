@@ -1,0 +1,10 @@
+{
+  "description": "청년모아 helps South Korean youth find and compare public benefits, subsidies, jobs, and training tailored to their age, income, location, and employment status.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
